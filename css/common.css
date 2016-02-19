@@ -40,3 +40,22 @@ footer p {
 	color: white;
 
 }
+#submit_button {
+	height: 50px;
+	width: 200px;
+	background-color: #192951;
+	color: white;
+	font-size: 25px;
+}
+.input {
+	height: 50px;
+}
+.input, .input_2 {
+	font-size: 25px;
+	margin-left: 0px;
+	padding-left: 10px;
+	background-color: transparent;
+}
+.input_2 {
+	margin-bottom: 30px;
+}
